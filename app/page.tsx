@@ -68,7 +68,8 @@ export default function Home() {
   return (
     <main className="min-h-screen p-8 bg-gray-50 text-gray-900">
       <div className="max-w-2xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8 text-orange-600 text-center">🍳 Книга рецептов Антон Коростелев</h1>
+        <h1 className="text-4xl font-bold mb-8 text-orange-600 text-center">🍳 Koza Family</h1>
+
         
         {/* Форма */}
         <div className="bg-white p-6 rounded-xl shadow-md border border-gray-200 mb-10">
