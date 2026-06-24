@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Koza Family",
+  title: "Koza Famely",
   description: "Система автоматизации и управления рестораном",
 };
 
